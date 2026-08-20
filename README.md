@@ -34,4 +34,26 @@ A structured collection of Data Structures & Algorithms problems solved in Java 
 - [Author](#-author)
 - [Repository Philosophy](#-repository-philosophy)
 
+- ## 🎯 Objectives
+
+- Master core Data Structures & Algorithms
+- Improve problem-solving and logical thinking
+- Develop efficient and optimized solutions
+- Prepare for coding interviews and online assessments
+- Maintain a consistent record of solved problems
+
+---
+
+## 🧠 Topics Covered
+
+**Data Structures**
+
+Arrays · Strings · Linked Lists · Queues · Hashing · Trees · Binary Search 
+
+**Algorithms**
+
+Searching · Sorting · Two Pointers · Sliding Window · Prefix Sum · Recursion · 
+
+---
+
 ---
