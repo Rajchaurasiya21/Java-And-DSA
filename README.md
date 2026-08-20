@@ -56,7 +56,7 @@ Arrays · Strings · Linked Lists · Queues · Hashing · Trees · Binary Search
 
 Java-DSA/
 │
--[Arrays/](./Arrays)
+-[Arrays/](DSA/Array)
 ├── Strings/
 ├── LinkedList/
 ├── Recursion/
