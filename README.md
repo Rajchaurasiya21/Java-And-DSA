@@ -92,6 +92,36 @@ Each topic folder contains individual problems with their Java implementations, 
 
 ---
 
+## 🛠️ Tech Stack
+
+| Component       | Details               |
+|------------------|------------------------|
+| Language         | Java                   |
+| IDE              | IntelliJ IDEA / VS Code |
+| Version Control  | Git & GitHub           |
+
+---
+
+## 💡 Problem-Solving Approach
+
+For each problem, the goal is to work through:
+
+1. Understand the problem requirements
+2. Design a brute-force approach
+3. Optimize the approach
+4. Analyze time complexity
+5. Analyze space complexity
+6. Identify edge cases
+7. Write a clean Java implementation
+
+The aim isn't just to collect solved problems — it's to understand the patterns behind them.
+
+---
+
+## ⏱️ Complexity Analysis
+
+Each solution includes complexity analysis wherever relevant, e.g.:
+
 Searching · Sorting · Two Pointers · Sliding Window · Prefix Sum · Recursion · 
 
 ---
