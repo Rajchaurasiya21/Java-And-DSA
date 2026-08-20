@@ -59,16 +59,11 @@ Java-DSA/
 ├── Arrays/
 ├── Strings/
 ├── LinkedList/
-├── Stack/
-├── Queue/
-├── Hashing/
-├── Trees/
-├── Heap/
-├── Graphs/
 ├── Recursion/
-├── Backtracking/
-├── Greedy/
-└── DynamicProgramming/
+├── Time & Space compl/
+├── Binary Search/
+├── Sorting/
+
 
 Each topic folder contains individual problems with their Java implementations, named for easy lookup.
 
