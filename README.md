@@ -114,7 +114,7 @@ For each problem, the goal is to work through:
 6. Identify edge cases
 7. Write a clean Java implementation
 
-The aim isn't just to collect solved problems — it's to understand the patterns behind them.
+The aim isn't just to collect solved problems - it's to understand the patterns behind them.
 
 ---
 
@@ -126,4 +126,41 @@ Searching · Sorting · Two Pointers · Sliding Window · Prefix Sum · Recursio
 
 ---
 
+
+## 🚀 Running the Code
+
+Clone the repository:
+
+git clone https://github.com/Rajchaurasiya21/Java-Learning.git
+
+Open the project in your preferred Java IDE and run the required `.java` file directly, or compile/run from the terminal:
+
+javac Solution.java
+java Solution
+
+---
+
+## 📈 Long-Term Goal
+
+Build strong DSA fundamentals and become capable of solving unfamiliar coding problems efficiently under interview conditions.
+
+---
+
+## 👨‍💻 Author
+
+**Raj Chaurasiya**
+
+Focused on:
+- Java
+- Data Structures & Algorithms
+- Full-Stack Development
+- Generative AI
+
+---
+
+## ⭐ Repository Philosophy
+
+> *Understand the pattern. Solve the problem. Analyze the complexity. Repeat.*
+
+This repository documents the process of becoming a stronger problem solver — not just the final answers.
 ---
