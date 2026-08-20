@@ -55,14 +55,10 @@ Arrays · Strings · Linked Lists · Queues · Hashing · Trees · Binary Search
 ## 📂 Repository Structure
 
 Java-DSA/
-
-
--[Arrays/](DSA/Array)
-
-
-├── Strings/
-├── LinkedList/
-├── Recursion/
+├──[Arrays/](DSA/Array)
+├── [Strings/](String)
+├── [LinkedList/](.DSA/LinkedList)
+├── [Recursion/](.DSA/Recursion]
 ├── Time & Space compl/
 ├── Binary Search/
 ├── Sorting/
