@@ -52,6 +52,52 @@ Arrays · Strings · Linked Lists · Queues · Hashing · Trees · Binary Search
 
 **Algorithms**
 
+## 📂 Repository Structure
+
+Java-DSA/
+│
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Hashing/
+├── Trees/
+├── Heap/
+├── Graphs/
+├── Recursion/
+├── Backtracking/
+├── Greedy/
+└── DynamicProgramming/
+
+Each topic folder contains individual problems with their Java implementations, named for easy lookup.
+
+---
+
+## 📊 Progress
+
+| Category            | Status |
+|----------------------|:------:|
+| Arrays               | 🟢 |
+| Time & Space compl.  | 🟢 |
+| Strings              | 🟢 |
+| Sorting              | 🟢 |
+| Binary Search        | 🟢 |
+| Recursion            | 🟢 |
+| Linked List          | 🟡 |
+| Stack & Queue        | 🔴 |
+| Trees                | 🔴 |
+| Graphs               | 🔴 |
+| Dynamic Programming  | 🔴 |
+
+
+🟢 Strong coverage · 🟡 In progress · 🔴 Not started
+
+**Target:** 500+ DSA problems solving.
+**Current Status:** 100+ Problems solved.
+
+---
+
 Searching · Sorting · Two Pointers · Sliding Window · Prefix Sum · Recursion · 
 
 ---
