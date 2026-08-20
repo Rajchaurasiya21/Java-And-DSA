@@ -58,10 +58,10 @@ Java-DSA/
 ├──[Arrays/](DSA/Array)
 ├── [Strings/](String)
 ├── [LinkedList/](.DSA/LinkedList)
-├── [Recursion/](.DSA/Recursion]
+├── [Recursion/](.DSA/Recursion)
 ├── Time & Space compl/
 ├── Binary Search/
-├── Sorting/
+├── [Sorting/](.DSA/Sorting)
 
 
 Each topic folder contains individual problems with their Java implementations, named for easy lookup.
